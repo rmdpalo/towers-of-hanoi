@@ -1,6 +1,6 @@
 # Towers of Hanoi
 
-[LIVE](https://replit.com/@rmdpalo/towers-of-hanoi?v=1)
+## [LIVE](https://replit.com/@rmdpalo/towers-of-hanoi?v=1)
 A Python 3 Terminal game that uses a Linked List to create Stacks to implement this game.
 
 Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks.
